@@ -1,0 +1,31 @@
+.container{
+  width: 60%;
+  margin: 0 auto;
+}
+
+.header{
+  display: flex;
+  justify-content: space-between;
+  padding: 2px;
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.nav-area{
+  display: flex;
+  justify-content: space-between;
+  width: 300px;
+}
+
+.nav-btn{
+  border: none;
+  border-radius: 5px;
+  background: lightGrey;
+  padding:8px 16px;
+  cursor: pointer;
+}
+
+.nav-btn:hover{
+  box-shadow: 0 0 0.5px 0.8px rgba(229, 137, 24, 0.5);
+  font-weight: 750;
+}
