@@ -13,13 +13,13 @@ This project is built for Express Project Establish Learning based on Express6.1
 1.Open your terminal, clone this project to your computer.
 
 ```
-git clone https://github.com/shanyueel/express_porject_establish.git
+git clone https://github.com/shanyueel/express_project_establish.git
 ```
 
 2.Enter this project's folder
 
 ```
-cd express_porject_establish
+cd express_project_establish
 ```
 
 3.install npm modules
