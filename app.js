@@ -26,5 +26,5 @@ app.get('/contact',(req, res)=>{
 })
 
 app.listen(port,()=>{
-  console.log(`Express Server running at https://localhost:${port}`)
+  console.log(`Express Server running at http://localhost:${port}`)
 })
